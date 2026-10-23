@@ -36,7 +36,7 @@
     "label_home_dir": "// DIRECTORY / 主要登録名簿",
     "label_chara_profile": "// PROFILE DATA / 基本情報",
     "label_chara_free": "// BACKGROUND & FREE SECTIONS / 経歴・自由設定項目",
-    "label_chara_radar": "// PARAMETER / 能力値マトリクス",
+    "label_chara_radar": "// PARAMETER / 能力値",
     "label_chara_dialogue": "// DIALOGUE ARCHIVE / セリフ集",
     "label_chara_relation": "// INTERPERSONAL / 相関関係",
     "label_chara_gallery": "// VISUAL LOG & GALLERY / 記録写真・表情差分",
