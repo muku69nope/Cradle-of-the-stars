@@ -1,7 +1,7 @@
 {
   "siteTitle": "星のゆりかご",
   "siteSubtitle": "CRADLE OF THE STARS",
-  "lastUpdated": "2026/10/23 15:49",
+  "lastUpdated": "2026/10/23 15:50",
   "homeVisual": "",
   "baseTheme": "light",
   "siteAccent": "#00f0ff",
@@ -99,24 +99,6 @@
         {
           "heading": "第一章: 特務防衛隊の召集",
           "body": "「君のその力、ここで腐らせるには惜しい」\n背後からかけられた声に振り返ると、そこには見知らぬ軍服の男が立っていた。"
-        }
-      ]
-    },
-    {
-      "id": "work_02",
-      "type": "MANGA",
-      "title": "CHAPTER 01: 蒼の交差",
-      "desc": "短編コミックログ（全12P）。シオンとの出会いと初任務。",
-      "cover": "",
-      "tags": [
-        "#漫画",
-        "#蒼井悠",
-        "#紫苑"
-      ],
-      "chapters": [
-        {
-          "heading": "エピソード概要",
-          "body": "配属初日、作戦方針をめぐって紫苑と激突する悠。\nしかし突如発生した変異体に対し、二人は息の合った迎撃を見せる。"
         }
       ]
     }
