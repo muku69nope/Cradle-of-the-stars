@@ -1,7 +1,7 @@
 {
   "siteTitle": "星のゆりかご",
   "siteSubtitle": "CRADLE OF THE STARS",
-  "lastUpdated": "2026/10/23 16:12",
+  "lastUpdated": "2026/10/23 16:13",
   "homeVisual": "",
   "baseTheme": "light",
   "siteAccent": "#4f4f4f",
@@ -100,7 +100,7 @@
       "groupId": "grp_main",
       "name": "蒼井 悠",
       "nameEn": "Aoi Yu",
-      "theme": "#00f0ff",
+      "theme": "#5e6868",
       "anim": "glitch",
       "tone": "dark",
       "bgImage": "",
