@@ -135,7 +135,7 @@
         {
           "title": "BACKGROUND / 経歴・生い立ち",
           "body": "ここに生い立ちや設定を入力してください。",
-          "isSpoiler": false,
+          "isSpoiler": true,
           "spoilerColor": "#f59e0b",
           "spoilerBadge": "⚠️ SPOILER WARNING // ネタバレ注意",
           "spoilerText": "ネタバレ注意：この項目には物語の核心や重大な設定が含まれています。",
