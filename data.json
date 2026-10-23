@@ -324,61 +324,6 @@
         }
       ],
       "gallery": []
-    },
-    {
-      "id": "CHARA_1792736901465",
-      "code": "SPEC-03",
-      "groupId": "grp_main",
-      "name": "新規キャラクター",
-      "nameEn": "New Character",
-      "theme": "#00f0ff",
-      "anim": "fade",
-      "tone": "inherit",
-      "bgImage": "",
-      "quote": "「ここにセリフを入力」",
-      "tags": [
-        "#新規"
-      ],
-      "portrait": "",
-      "specs": [
-        {
-          "key": "年齢 / 性別",
-          "val": "未設定"
-        },
-        {
-          "key": "所属",
-          "val": "未設定"
-        }
-      ],
-      "freeSections": [
-        {
-          "title": "BACKGROUND / 経歴・生い立ち",
-          "body": "ここに生い立ちや設定を入力してください。"
-        }
-      ],
-      "stats": [
-        {
-          "label": "攻撃力",
-          "val": 50
-        },
-        {
-          "label": "防御力",
-          "val": 50
-        },
-        {
-          "label": "機動力",
-          "val": 50
-        },
-        {
-          "label": "知性",
-          "val": 50
-        }
-      ],
-      "dialogues": [
-        "「セリフを入力してください」"
-      ],
-      "relations": [],
-      "gallery": []
     }
   ]
 }
